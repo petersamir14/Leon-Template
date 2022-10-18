@@ -155,7 +155,7 @@ html {
 
 /*start landing */
 .landing {
-    background-image: url(/Images/Landing.webp);
+    background-image: url(../Images/Landing.webp);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
